@@ -1,0 +1,2 @@
+import basic_app.views as v
+v.send_confirmations()
